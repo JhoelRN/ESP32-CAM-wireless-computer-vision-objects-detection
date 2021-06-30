@@ -2,7 +2,7 @@ import cv2 #opencv
 import urllib.request #para abrir y leer URL
 import numpy as np
 
-#PROGRAMA DE CLASIFICACION DE OBJETOS PARA VIDEO EN DIRECCION IP (Falta modificar)
+#PROGRAMA DE CLASIFICACION DE OBJETOS PARA VIDEO EN DIRECCION IP 
 
 url = 'http://192.168.1.6/cam-hi.jpg'
 #url = 'http://192.168.1.6/'
